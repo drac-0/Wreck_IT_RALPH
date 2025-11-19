@@ -30,8 +30,7 @@ HANDMADE DDOS TOOLS
     ░░  ░░  ░   ░   ░  ░░  ░░  ░   ░   ░  '░  ░░  ░   ░   ░  '░  ░░  ░`  ░   ░  '░
 
 
-NOT REALLY SURE WHEN GONNA START IT
-
+1. Learn how to connect to a random accesible proxy (19/11/2025)
 
 
     

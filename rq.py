@@ -5,7 +5,6 @@ from fp.fp import FreeProxy
 
 iteration = 1
 
-
 while True:
 	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	proxyv2 = FreeProxy(rand=True).get()

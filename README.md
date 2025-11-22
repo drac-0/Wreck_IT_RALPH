@@ -1,4 +1,5 @@
 HANDMADE DDOS TOOLS 
+i will document it properly later :D
 
       ░░  ░░  ░   ░  '░  ░░  ░   ░   ░  ░░  ░░  ░   ░░  ░   ░  ░░  ░░  ░░  ░   ░   ░
     ░░  ░░  ░   ░   ░  ░░  ░░  ,,,,,,  ░  ░,,,,,  ░   ,,,,,, '░  ░░  ░░  ░   ░  '░
